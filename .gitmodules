@@ -1,3 +1,6 @@
 [submodule "mobile-ops-server"]
 	path = mobile-ops-server
 	url = https://git.heroku.com/mobile-ops-server.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/angihe93/mobile-ops-server
