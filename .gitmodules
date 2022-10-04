@@ -1,0 +1,3 @@
+[submodule "mobile-ops-server"]
+	path = mobile-ops-server
+	url = https://git.heroku.com/mobile-ops-server.git
